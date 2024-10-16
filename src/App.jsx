@@ -46,7 +46,7 @@ const copyPasswordToClipboard=()=>{
   return (
     <>
     <div className='container-fluid  vw-100 vh-100 px-auto bg-black'>
-      <h2 className='text-light text-center my-4 py-4 m-lg-0 '>Password Geneator</h2>
+      <h2 className='text-light text-center my-4 py-4 m-lg-0 '>Password Generator</h2>
       <div className='flex  rounded overflow-hidden mb-3'>
         <input 
         type="text"
